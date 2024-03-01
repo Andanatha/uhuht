@@ -1,0 +1,40 @@
+*, body,html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eaeaea;
+    /* background-image: url(https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/5/10/b7bfd513-9e2c-4835-935b-003566a3fe0c.png); */
+}
+
+header {
+    background-color: tomato;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
